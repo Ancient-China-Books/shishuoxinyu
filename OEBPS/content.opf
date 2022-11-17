@@ -1,0 +1,121 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uTYxUxj8FQqUHKlf6ACUSyB">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>世說新語</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="南朝宋·劉義慶">南朝宋·劉義慶</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier id="uTYxUxj8FQqUHKlf6ACUSyB" opf:scheme="uuid">uTYxUxj8FQqUHKlf6ACUSyB</dc:identifier>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;本電子書基於「漢川草廬」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (6.8.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>集部</dc:subject>
+    <dc:subject>文集</dc:subject>
+    <dc:subject>劉義慶</dc:subject>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">e7e2d6eb-79ed-495b-a25f-28d4296bb825</dc:identifier>
+    <meta name="calibre:title_sort" content="世說新語"/>
+    <meta name="calibre:author_link_map" content="{&quot;南朝宋·劉義慶&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="文集"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="10.0"/>
+  </metadata>
+  <manifest>
+    <item id="id9" href="Text/01.htm" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/02.htm" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/03.htm" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/04.htm" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/05.htm" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/06.htm" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/07.htm" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/08.htm" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/09.htm" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/10.htm" media-type="application/xhtml+xml"/>
+    <item id="id20" href="Text/11.htm" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/12.htm" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/13.htm" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/14.htm" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/15.htm" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/16.htm" media-type="application/xhtml+xml"/>
+    <item id="id26" href="Text/17.htm" media-type="application/xhtml+xml"/>
+    <item id="id27" href="Text/18.htm" media-type="application/xhtml+xml"/>
+    <item id="id28" href="Text/19.htm" media-type="application/xhtml+xml"/>
+    <item id="id29" href="Text/20.htm" media-type="application/xhtml+xml"/>
+    <item id="id30" href="Text/21.htm" media-type="application/xhtml+xml"/>
+    <item id="id31" href="Text/22.htm" media-type="application/xhtml+xml"/>
+    <item id="id32" href="Text/23.htm" media-type="application/xhtml+xml"/>
+    <item id="id33" href="Text/24.htm" media-type="application/xhtml+xml"/>
+    <item id="id34" href="Text/25.htm" media-type="application/xhtml+xml"/>
+    <item id="id35" href="Text/26.htm" media-type="application/xhtml+xml"/>
+    <item id="id36" href="Text/27.htm" media-type="application/xhtml+xml"/>
+    <item id="id37" href="Text/28.htm" media-type="application/xhtml+xml"/>
+    <item id="id38" href="Text/29.htm" media-type="application/xhtml+xml"/>
+    <item id="id39" href="Text/30.htm" media-type="application/xhtml+xml"/>
+    <item id="id40" href="Text/31.htm" media-type="application/xhtml+xml"/>
+    <item id="id41" href="Text/32.htm" media-type="application/xhtml+xml"/>
+    <item id="id42" href="Text/33.htm" media-type="application/xhtml+xml"/>
+    <item id="id43" href="Text/34.htm" media-type="application/xhtml+xml"/>
+    <item id="id44" href="Text/35.htm" media-type="application/xhtml+xml"/>
+    <item id="id45" href="Text/36.htm" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
+    <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
+    <item id="id" href="Images/21d59.gif" media-type="image/gif"/>
+    <item id="id48" href="Images/23c05.gif" media-type="image/gif"/>
+    <item id="id49" href="Images/26156.gif" media-type="image/gif"/>
+    <item id="id50" href="Images/2998e.gif" media-type="image/gif"/>
+    <item id="id51" href="Images/3762.gif" media-type="image/gif"/>
+    <item id="id52" href="Images/3bd3.gif" media-type="image/gif"/>
+    <item id="id53" href="Images/3caa.gif" media-type="image/gif"/>
+    <item id="id54" href="Images/3ccc.gif" media-type="image/gif"/>
+    <item id="id55" href="Images/46a5.gif" media-type="image/gif"/>
+    <item id="id56" href="Images/4c65.gif" media-type="image/gif"/>
+    <item id="id57" href="Images/4c79.gif" media-type="image/gif"/>
+    <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
+    <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="rtl">
+    <itemref idref="id9"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+  </spine>
+  <guide>
+    </guide>
+</package>

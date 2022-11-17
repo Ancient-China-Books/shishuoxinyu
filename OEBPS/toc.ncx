@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>世說新語</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>德行第一</text>
+      </navLabel>
+      <content src="Text/01.htm"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>言語第二</text>
+      </navLabel>
+      <content src="Text/02.htm"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>政事第三</text>
+      </navLabel>
+      <content src="Text/03.htm"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>文學第四</text>
+      </navLabel>
+      <content src="Text/04.htm"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>方正第五</text>
+      </navLabel>
+      <content src="Text/05.htm"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>雅量第六</text>
+      </navLabel>
+      <content src="Text/06.htm"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>識鑒第七</text>
+      </navLabel>
+      <content src="Text/07.htm"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>賞譽第八</text>
+      </navLabel>
+      <content src="Text/08.htm"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>品藻第九</text>
+      </navLabel>
+      <content src="Text/09.htm"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>規箴第十</text>
+      </navLabel>
+      <content src="Text/10.htm"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>捷悟第十一</text>
+      </navLabel>
+      <content src="Text/11.htm"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>夙惠第十二</text>
+      </navLabel>
+      <content src="Text/12.htm"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>豪爽第十三</text>
+      </navLabel>
+      <content src="Text/13.htm"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>容止第十四</text>
+      </navLabel>
+      <content src="Text/14.htm"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>自新第十五</text>
+      </navLabel>
+      <content src="Text/15.htm"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>企羨第十六</text>
+      </navLabel>
+      <content src="Text/16.htm"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>傷逝第十七</text>
+      </navLabel>
+      <content src="Text/17.htm"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>棲逸第十八</text>
+      </navLabel>
+      <content src="Text/18.htm"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>賢媛第十九</text>
+      </navLabel>
+      <content src="Text/19.htm"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>術解第二十</text>
+      </navLabel>
+      <content src="Text/20.htm"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>巧藝第二十一</text>
+      </navLabel>
+      <content src="Text/21.htm"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>寵禮第二十二</text>
+      </navLabel>
+      <content src="Text/22.htm"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>任誕第二十三</text>
+      </navLabel>
+      <content src="Text/23.htm"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>簡傲第二十四</text>
+      </navLabel>
+      <content src="Text/24.htm"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>排調第二十五</text>
+      </navLabel>
+      <content src="Text/25.htm"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>輕詆第二十六</text>
+      </navLabel>
+      <content src="Text/26.htm"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>假譎第二十七</text>
+      </navLabel>
+      <content src="Text/27.htm"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>黜免第二十八</text>
+      </navLabel>
+      <content src="Text/28.htm"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>儉嗇第二十九</text>
+      </navLabel>
+      <content src="Text/29.htm"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>汰侈第三十</text>
+      </navLabel>
+      <content src="Text/30.htm"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>忿狷第三十一</text>
+      </navLabel>
+      <content src="Text/31.htm"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>讒險第三十二</text>
+      </navLabel>
+      <content src="Text/32.htm"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>尤悔第三十三</text>
+      </navLabel>
+      <content src="Text/33.htm"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>紕漏第三十四</text>
+      </navLabel>
+      <content src="Text/34.htm"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>惑溺第三十五</text>
+      </navLabel>
+      <content src="Text/35.htm"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>仇隙第三十六</text>
+      </navLabel>
+      <content src="Text/36.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
