@@ -61,17 +61,6 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
-    <item id="id" href="Images/21d59.gif" media-type="image/gif"/>
-    <item id="id48" href="Images/23c05.gif" media-type="image/gif"/>
-    <item id="id49" href="Images/26156.gif" media-type="image/gif"/>
-    <item id="id50" href="Images/2998e.gif" media-type="image/gif"/>
-    <item id="id51" href="Images/3762.gif" media-type="image/gif"/>
-    <item id="id52" href="Images/3bd3.gif" media-type="image/gif"/>
-    <item id="id53" href="Images/3caa.gif" media-type="image/gif"/>
-    <item id="id54" href="Images/3ccc.gif" media-type="image/gif"/>
-    <item id="id55" href="Images/46a5.gif" media-type="image/gif"/>
-    <item id="id56" href="Images/4c65.gif" media-type="image/gif"/>
-    <item id="id57" href="Images/4c79.gif" media-type="image/gif"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
